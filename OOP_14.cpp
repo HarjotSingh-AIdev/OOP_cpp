@@ -3,7 +3,7 @@ using namespace std;
                   // PRIORITY OF CONSTRUCTORS  & DESTRUCTORS
                   //PARENT AND CHILD CLASS
 //  Parent class constructor
-//  child class destructor
+//  child class constructor
 //  child class destructor
 //  Parent class destructor
 
